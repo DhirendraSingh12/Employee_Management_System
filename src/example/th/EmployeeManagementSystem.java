@@ -30,9 +30,9 @@ public class EmployeeManagementSystem {
         List<Employee> employees = new ArrayList<>();
 
         // Adding employees to the list
-        employees.add(new Employee(101, "Alice", 50000));
-        employees.add(new Employee(102, "Bob", 55000));
-        employees.add(new Employee(103, "Charlie", 60000));
+        employees.add(new Employee(1001, "Rahul", 55000));
+        employees.add(new Employee(1002, "Virat", 65000));
+        employees.add(new Employee(1003, "Rohit", 70000));
 
         // Displaying employee details
         System.out.println("Employee Details:");
